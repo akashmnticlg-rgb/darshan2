@@ -13,7 +13,7 @@ plt.bar(x,y)
 plt.xlabel("year")
 plt.ylabel("car manufacture")
 plt.title("car mpg")
-plt.show()
+plt.show() 
 
 
 
